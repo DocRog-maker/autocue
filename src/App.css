@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.webviewer {
+  height:100vh;
+}
+
+.button-div{
+  display: inline;
+}
+button{
+  display: inline;
+  background-color: green!important;
+  color:white!important;
+  border-radius: 10px;
+   padding:5px; 
+   margin: 20px;
+}
+
+.button-cue{
+  display: inline-block;
+}
